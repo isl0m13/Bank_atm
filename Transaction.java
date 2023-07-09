@@ -1,3 +1,6 @@
+/**
+ * Created by isl0m13*/
+
 import java.util.Date;
 public class Transaction {
     private double amount ;// Amount of this transaction

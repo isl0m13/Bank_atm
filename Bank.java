@@ -1,3 +1,6 @@
+/**
+ * Created by isl0m13*/
+
 import java.util.ArrayList;
 import java.util.Random;
 
